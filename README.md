@@ -45,17 +45,7 @@ cd fitup-core
 
 *(Update in the future — nên bổ sung ảnh chụp màn hình hoặc video demo ngắn ở đây)*
 
-## 👥 Thành viên nhóm gốc (đồ án NT118.Q13)
 
-| Họ và tên | MSSV |
-|---|---|
-| Huỳnh Minh Hiếu | 23520477 |
-| Ngô Kim Thành | 23521447 |
-| Trần Bùi Nhật Nguyên | 23521059 |
-
-## 🙋 Đóng góp cá nhân
-
-*(Điền cụ thể phần bạn phụ trách, ví dụ:)*
 - Thiết kế & phát triển module Matching (`AIMatchEngine`, `MatchProfile`, `MatchResult`)
 - Tích hợp trợ lý AI (Groq API, Gemini API) cho tính năng chat & quiz sức khỏe
 - Xây dựng lớp tích hợp Firebase (Auth, Firestore, Storage)
