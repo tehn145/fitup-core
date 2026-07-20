@@ -4,8 +4,6 @@
 **Giảng viên hướng dẫn:** Trần Hồng Nghi
 **Nhóm 8**
 
-> Repo này (`fitup-core`) là bản phát triển tiếp theo của đồ án nhóm `FitUp`, được duy trì và mở rộng chủ yếu bởi Ngô Kim Thành — xem chi tiết đóng góp ở mục [Đóng góp cá nhân](#-đóng-góp-cá-nhân).
-
 ---
 
 ## 📝 Giới thiệu
